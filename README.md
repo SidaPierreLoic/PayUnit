@@ -1,4 +1,4 @@
-# 💳 PayUni - Application de Gestion des Frais et Paiements Mobiles
+# 💳 PayUnit - Application de Gestion des Frais et Paiements Mobiles
 
 <div align="center">
 
